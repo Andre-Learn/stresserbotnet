@@ -1,18 +1,18 @@
 {
     "Branding" : {
         "AppName" : "Every",
-        "ClientName" : "",
+        "ClientName" : "epen",
 
         "Links" : {
-            "Power" : "https://t.me/",
-            "News" : "https://t.me/",
-            "Support" : "https://t.me/"
+            "Power" : "https://t.me/EpenVN",
+            "News" : "https://t.me/EpenVN",
+            "Support" : "https://t.me/EpenVN"
         }
     },
 
     "Settings" : {
-        "Token" : "",
-        "NotifyToken" : "",
+        "Token" : "7174804700:AAGXW5Imr9iQYnAl48O9gaZJW0indZDbbyg",
+        "NotifyToken" : "7174804700:AAGXW5Imr9iQYnAl48O9gaZJW0indZDbbyg",
 
         "Admins" : [],
         "Version" : 1.0,
